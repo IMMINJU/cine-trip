@@ -22,7 +22,7 @@ export function Header() {
             </svg>
           </div>
           <h1 className="text-xl font-bold text-gray-900 dark:text-white">
-            CineTrip
+            ScreenLog
           </h1>
         </Link>
 

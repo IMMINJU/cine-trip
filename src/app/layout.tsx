@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "CineTrip",
+  title: "ScreenLog",
   description: "영화관에서 본 영화를 기록하고 지도에서 확인하세요",
 };
 
